@@ -15,7 +15,7 @@ International Media Management student at RheinMain University of Applied Scienc
 
 **Tools**
 
-Claude Code · Antigravity · Power Automate · Copilot Studio · HTML · CSS · WordPress · Elementor · Git · Linux · Docker · Python (learning) · Adobe InDesign · Premiere Pro
+Adobe Suite · Claude Code · Antigravity · Power Automate · Copilot Studio · HTML · CSS · WordPress · Elementor · Git · Linux · Docker · Python (learning)
 
 **Find me**
 
