@@ -11,7 +11,7 @@ International Media Management student at RheinMain University of Applied Scienc
 **Pinned projects**
 
 - [Seelig-Designs](https://github.com/LegendeSamuel/Seelig-Designs) – my photography website, with its own design system
-- [Wetter-Wallpaper](https://github.com/LegendeSamuel/Wetter-Wallpaper) – wallpaper app
+- [Wetter-Wallpaper](https://github.com/LegendeSamuel/WetterWallpaper) – wallpaper app
 
 **Tools**
 
